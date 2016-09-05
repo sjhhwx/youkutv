@@ -353,8 +353,7 @@
 	      title:"主标题",
 	      sub_title: "童年最美的记忆",
 	      hint: {
-		left: "/tv/lean/fl/in?id=4&pageno=2",
-		right: "/tv/lean/fl/in?id=4&pageno=2"
+		left: "/tv/lean/fl/in?id=4&pageno=2"
 		},
 	     
               images: {
