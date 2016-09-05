@@ -407,10 +407,7 @@
                 }
               }, 
 	      title:"主标题",
-	      sub_title: "童年最美的记忆", 
-	      hint: {
-		mid: "更新到第N集"
-		},
+	      sub_title: "童年最美的记忆",
               images: {
                 poster: {
                   url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/905905cf8f0c998cea01d0d1efa82659.jpg", 
