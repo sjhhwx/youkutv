@@ -315,6 +315,9 @@
               }, 
 	      title:"主标题",
 	      sub_title: "童年最美的记忆", 
+	      hint: {
+		left: "更新到第N集"
+	       },
               images: {
                 poster: {
                   url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/f4eac6326d379e3c5ce401b8f5e73928.jpg", 
@@ -353,7 +356,7 @@
 	      title:"主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题",
 	      sub_title: "童年最美的记忆",
 	      hint: {
-		right: "/tv/lean/fl/in?id=4&pageno=2"
+		right: "更新到第N集"
 		},
 	     
               images: {
