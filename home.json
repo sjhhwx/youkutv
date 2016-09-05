@@ -352,7 +352,7 @@
               }, 
 	      title:"主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题主标题",
 	      sub_title: "童年最美的记忆",
-	      hint: {
+	      right: {
 		left: "/tv/lean/fl/in?id=4&pageno=2"
 		},
 	     
