@@ -361,6 +361,18 @@
 		url: "http://image.box.xiaomi.com/mfsv2/download/s010/p019ylXac1e5/go3djq10wWi552.png",
 		md5: "13a2626d0454979a48f9f10751ac1585"
 		}
+		right_top_corner: {
+		url: "http://image.box.xiaomi.com/mfsv2/download/s010/p019ylXac1e5/go3djq10wWi552.png",
+		md5: "13a2626d0454979a48f9f10751ac1585"
+		},
+		left_bottom_corner: {
+		url: "http://image.box.xiaomi.com/mfsv2/download/s010/p019ylXac1e5/go3djq10wWi552.png",
+		md5: "13a2626d0454979a48f9f10751ac1585"
+		},
+		left_top_corner: {
+		url: "http://image.box.xiaomi.com/mfsv2/download/s010/p019ylXac1e5/go3djq10wWi552.png",
+		md5: "13a2626d0454979a48f9f10751ac1585"
+		}
               }, 
               ns: "video", 
               id: "V/320704", 
