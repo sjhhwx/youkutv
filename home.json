@@ -352,9 +352,7 @@
               }, 
 	      title:"主标题",
 	      sub_title: "童年最美的记忆",
-	      hint: {
-		
-		},
+	     
               images: {
                 poster: {
                   url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/257e7c7f2f4d64332309aa201dfb3b59.jpg", 
