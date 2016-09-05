@@ -353,8 +353,8 @@
 	      title:"主标题",
 	      sub_title: "童年最美的记忆",
 	      hint: {
-		bg_left:"lefffff",
-		bg_right:"righttttt",
+		left:"lefffff",
+		right:"righttttt",
 		},
               images: {
                 poster: {
