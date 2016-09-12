@@ -7,26 +7,26 @@
   media: {
     showid: "xxxxxxxx", 
     videoid: "xxxxxx", 
-    show_videotype: "ÕıÆ¬", 
+    show_videotype: "æ­£ç‰‡", 
     paid: 0, 
     publictype: 0, 
     display_style: 0, 
     total_vv: 7888, 
     posterurl: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/35a5aa12e92d3ea37a95dd33ab67e316.jpg", 
-    category: "µçÊÓ¾ç", 
+    category: "ç”µè§†å‰§", 
     title: "xxxx", 
     rating: 6.6, 
     show_logo: 1, 
     douban_rating: 8.2, 
-    desc: "Èı¸öº¢×Ó£¬Èı¶Ô·òÆŞ£¬Èı¸ö¼ÒÍ¥£¬Ç¡ºÃ¶¼Åö×²ÉÏÁË³ö¹ú³±¡£·½¼Ò¸¸Ä¸µÄĞÄ±»Å®¶ù·½¶ä¶äµÄºöÉÏºöÏÂµÄ³É¼¨Ç£°í£»½ğ¼ÒÂèÂè·ÇÒªÑ§°ÔÅ®¶ù½ğÇÙÇÙ×îºÃµÄ½ÌÓı£»´óÀÏ°åÕÅÁÁÖÒ¼ÒÀïµÄ»ìÊÀĞ¡Ä§ÍõÕÅĞ¡ÓîÓë½¿ÆŞÃ¬¶Ü²»¶Ï¡£³ö¹úÁôÑ§µÄ¹ÊÊÂÓÉ´ËÕ¹¿ª¡£", 
-    showname: "Ğ¡±ğÀë", 
+    desc: "ä¸‰ä¸ªå­©å­ï¼Œä¸‰å¯¹å¤«å¦»ï¼Œä¸‰ä¸ªå®¶åº­ï¼Œæ°å¥½éƒ½ç¢°æ’ä¸Šäº†å‡ºå›½æ½®ã€‚æ–¹å®¶çˆ¶æ¯çš„å¿ƒè¢«å¥³å„¿æ–¹æœµæœµçš„å¿½ä¸Šå¿½ä¸‹çš„æˆç»©ç‰µç»Šï¼›é‡‘å®¶å¦ˆå¦ˆéè¦å­¦éœ¸å¥³å„¿é‡‘ç´ç´æœ€å¥½çš„æ•™è‚²ï¼›å¤§è€æ¿å¼ äº®å¿ å®¶é‡Œçš„æ··ä¸–å°é­”ç‹å¼ å°å®‡ä¸å¨‡å¦»çŸ›ç›¾ä¸æ–­ã€‚å‡ºå›½ç•™å­¦çš„æ•…äº‹ç”±æ­¤å±•å¼€ã€‚", 
+    showname: "å°åˆ«ç¦»", 
     video_play_type: 0, 
     language: "", 
     title_icon_label: "", 
     completed: 0, 
     type: 2, 
     duration: 3600, 
-    audience_ages: "È«ÄêÁä", 
+    audience_ages: "å…¨å¹´é¾„", 
     premiere_date: 2016, 
     seriescount: 45, 
     seriesnow: 45,
@@ -34,7 +34,7 @@
       {
         gender: 1, 
         id: 122920, 
-        name: "Íô¿¡", 
+        name: "æ±ªä¿Š", 
         avatar: {
           url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/a2da3aa539290ff73c25d7dcb8ce295a.jpg", 
           md5: "a2da3aa539290ff73c25d7dcb8ce295a"
@@ -45,7 +45,7 @@
       {
         gender: 1, 
         id: 122214, 
-        name: "»ÆÀÚ", 
+        name: "é»„ç£Š", 
         avatar: {
           url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/3f6848a0ebd9599c7d1d3000979f65ec.png", 
           md5: "3f6848a0ebd9599c7d1d3000979f65ec"
@@ -54,7 +54,7 @@
       {
         gender: 2, 
         id: 112125, 
-        name: "º£Çå", 
+        name: "æµ·æ¸…", 
         avatar: {
           url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/62724a19f18b8f0d1ef3a6e36d657448.png", 
           md5: "62724a19f18b8f0d1ef3a6e36d657448"
@@ -63,8 +63,8 @@
     ], 	
     display_fields: [
       "2016-07-31", 
-      "´óÂ½", 
-      "¾çÇé/ÎäÏÀ/Éñ»°"
+      "å¤§é™†", 
+      "å‰§æƒ…/æ­¦ä¾ /ç¥è¯"
     ], 
     series: [
       {
@@ -77,8 +77,8 @@
         pay_type: 0, 
         pk_video: 428498297, 
         play_flag: 7, 
-        show_videotype: "Ô¤¸æÆ¬", 
-        title: "¡¶ÇàÔÆÖ¾¡·22¼¯Ô¤¸æÆ¬", 
+        show_videotype: "é¢„å‘Šç‰‡", 
+        title: "ã€Šé’äº‘å¿—ã€‹22é›†é¢„å‘Šç‰‡", 
         video_stage: 22, 
         videoid: "XMTcxMzk5MzE4OA==", 
         videosize: 11404800, 
@@ -95,8 +95,8 @@
         pay_type: 0, 
         pk_video: 428497911, 
         play_flag: 3, 
-        show_videotype: "Ô¤¸æÆ¬", 
-        title: "¡¶ÇàÔÆÖ¾¡·21¼¯Ô¤¸æÆ¬", 
+        show_videotype: "é¢„å‘Šç‰‡", 
+        title: "ã€Šé’äº‘å¿—ã€‹21é›†é¢„å‘Šç‰‡", 
         video_stage: 21, 
         videoid: "XMTcxMzk5MTY0NA==", 
         videosize: 11366400, 
@@ -106,12 +106,12 @@
     ], 
     cast_info: [
       {
-        display_name: "µ¼Ñİ", 
+        display_name: "å¯¼æ¼”", 
         value: [
           {
             gender: 1, 
             id: 122920, 
-            name: "Íô¿¡", 
+            name: "æ±ªä¿Š", 
             avatar: {
               url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/a2da3aa539290ff73c25d7dcb8ce295a.jpg", 
               md5: "a2da3aa539290ff73c25d7dcb8ce295a"
@@ -120,12 +120,12 @@
         ]
       }, 
       {
-        display_name: "ÑİÔ±", 
+        display_name: "æ¼”å‘˜", 
         value: [
           {
             gender: 1, 
             id: 122214, 
-            name: "»ÆÀÚ", 
+            name: "é»„ç£Š", 
             avatar: {
               url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/3f6848a0ebd9599c7d1d3000979f65ec.png", 
               md5: "3f6848a0ebd9599c7d1d3000979f65ec"
@@ -134,7 +134,7 @@
           {
             gender: 2, 
             id: 112125, 
-            name: "º£Çå", 
+            name: "æµ·æ¸…", 
             avatar: {
               url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/62724a19f18b8f0d1ef3a6e36d657448.png", 
               md5: "62724a19f18b8f0d1ef3a6e36d657448"
@@ -143,7 +143,7 @@
           {
             gender: 2, 
             id: 100600, 
-            name: "ÕÅ×Ó·ã", 
+            name: "å¼ å­æ«", 
             avatar: {
               url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/07e13682ce1ce2689b0e914d2c9838f7.jpg", 
               md5: "07e13682ce1ce2689b0e914d2c9838f7"
@@ -153,15 +153,15 @@
       }
     ], 
     regions: [
-      "ÖĞ¹ú´óÂ½"
+      "ä¸­å›½å¤§é™†"
     ], 
     rating_info: [
       {
-        display_name: "ÒÕÊõ·Ö", 
+        display_name: "è‰ºæœ¯åˆ†", 
         value: 5.7
       }, 
       {
-        display_name: "ÓéÀÖ·Ö", 
+        display_name: "å¨±ä¹åˆ†", 
         value: 5.5
       }
     ]
@@ -177,7 +177,7 @@
 			unitary: true,
 		    name: "block_grid_clips",
 		       },	  
-		  title:"Æ¬»¨",
+		  title:"ç‰‡èŠ±",
           items: [
             {
               stat: {
@@ -189,7 +189,7 @@
                 entity: "v:list", 
                 schema: "yktv"
               }, 
-              title: "Æ¬»¨Æ¬»¨", 
+              title: "ç‰‡èŠ±ç‰‡èŠ±", 
               ui_type: {
                 name: "display_item", 
                 pos: {
@@ -219,7 +219,7 @@
               stat: {
                 id: 65829, 
                 tp: "list"
-              }, title:"ÑİÔ±",
+              }, title:"æ¼”å‘˜",
           items: [
             {
               target: {
@@ -227,7 +227,7 @@
                 entity: "v:list", 
                 schema: "yktv"
               }, 
-              title: "ºú¸è", 
+              title: "èƒ¡æ­Œ", 
               ui_type: {
                 name: "display_item", 
                 pos: {
@@ -259,7 +259,7 @@
                 entity: "v:list", 
                 schema: "yktv"
               }, 
-              title: "Á¼ĞÄÅÌµã£º¹ú²ú¾çµÄ´ºÌìÀ´ÁË", 
+              title: "è‰¯å¿ƒç›˜ç‚¹ï¼šå›½äº§å‰§çš„æ˜¥å¤©æ¥äº†", 
               ui_type: {
                 name: "display_item", 
                 pos: {
