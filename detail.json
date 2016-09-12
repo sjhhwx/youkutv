@@ -249,6 +249,10 @@
                     ]
                 }, 
                 {
+                    "ui_type": {
+                        "unitary": true, 
+                        "name": "block_grid_hot"
+                    }, 
                     "items": [
                         {
                             "stat": {
