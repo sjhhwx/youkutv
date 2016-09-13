@@ -1393,7 +1393,7 @@
                 {
                     "ui_type": {
                         "unitary": true, 
-                        "name": "block_grid_star"
+                        "name": "block_grid_star_h"
                     }, 
                     "stat": {
                         "id": 65829, 
