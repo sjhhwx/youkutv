@@ -1813,7 +1813,8 @@
                 {
                     "ui_type": {
                         "unitary": true, 
-                        "name": "block_grid_hot"
+                        "name": "block_grid_hot", 
+                        "columns": 3
                     }, 
                     "items": [
                         {
