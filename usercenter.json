@@ -10,27 +10,27 @@
                 "unitary": true, 
                 "name": "block_list"
             }, 
+            "userinfo": {
+                "rank_info": {
+                    "day_viewdura": 37, 
+                    "total_viewdura": 47191, 
+                    "need_viewdura": 9, 
+                    "percent": 51, 
+                    "rank": 39
+                }, 
+                "uid": "UMTk0NTA0MTQyMA==", 
+                "following_count": 20, 
+                "vip_end_time": "2017-06-19", 
+                "vip_dura": 274, 
+                "vip_icon": "http://r4.cp31.ott.cibntv.net/051000005683840F67BC3D36660479D0", 
+                "vip_grade": 4, 
+                "avatar": "http://static.cp31.ott.cibntv.net/user/img/avatar/80/25.jpg", 
+                "is_vip": 1, 
+                "vip_name": "优酷土豆黄金会员", 
+                "name": "郭子1206"
+            }, 
             "blocks": [
                 {
-                    "userinfo": {
-                        "rank_info": {
-                            "day_viewdura": 37, 
-                            "total_viewdura": 47191, 
-                            "need_viewdura": 9, 
-                            "percent": 51, 
-                            "rank": 39
-                        }, 
-                        "uid": "UMTk0NTA0MTQyMA==", 
-                        "following_count": 20, 
-                        "vip_end_time": "2017-06-19", 
-                        "vip_dura": 274, 
-                        "vip_icon": "http://r4.cp31.ott.cibntv.net/051000005683840F67BC3D36660479D0", 
-                        "vip_grade": 4, 
-                        "avatar": "http://static.cp31.ott.cibntv.net/user/img/avatar/80/25.jpg", 
-                        "is_vip": 1, 
-                        "vip_name": "优酷土豆黄金会员", 
-                        "name": "郭子1206"
-                    }, 
                     "ui_type": {
                         "unitary": false, 
                         "ratio": 1.4, 
