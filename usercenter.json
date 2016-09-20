@@ -1470,7 +1470,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.66, 
-                        "name": "block_grid_subject_h", 
+                        "name": "block_grid_classich_h", 
                         "columns": 6
                     }, 
                     "ver": 1473245912, 
@@ -4428,7 +4428,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.66, 
-                        "name": "block_grid_history_h", 
+                        "name": "block_grid_classic_h", 
                         "columns": 6
                     }, 
                     "ver": 1473245912, 
