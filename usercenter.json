@@ -3303,7 +3303,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.66, 
-                        "name": "block_grid_hot", 
+                        "name": "block_grid_classic_h", 
                         "columns": 6
                     }, 
                     "ver": 1473245912, 
@@ -3482,6 +3482,105 @@
                             }
                         }, 
                         {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 5, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "ver": 1473245912, 
+                            "target": {
+                                "schema": "yktv"
+                            }, 
+                            "title": "仙剑奇侠传", 
+                            "hint": {
+                                "right": "", 
+                                "mid": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057CD10936714C050240523A7", 
+                                    "md5": "724574f93ac4fef0ba96c3d5b7188ed6"
+                                }
+                            }, 
+                            "id": 26, 
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+			{
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 5, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "ver": 1473245912, 
+                            "target": {
+                                "schema": "yktv"
+                            }, 
+                            "title": "仙剑奇侠传", 
+                            "hint": {
+                                "right": "", 
+                                "mid": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057CD10936714C050240523A7", 
+                                    "md5": "724574f93ac4fef0ba96c3d5b7188ed6"
+                                }
+                            }, 
+                            "id": 26, 
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+			{
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 5, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "ver": 1473245912, 
+                            "target": {
+                                "schema": "yktv"
+                            }, 
+                            "title": "仙剑奇侠传", 
+                            "hint": {
+                                "right": "", 
+                                "mid": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057CD10936714C050240523A7", 
+                                    "md5": "724574f93ac4fef0ba96c3d5b7188ed6"
+                                }
+                            }, 
+                            "id": 26, 
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+			{
                             "ui_type": {
                                 "unitary": true, 
                                 "name": "display_item", 
