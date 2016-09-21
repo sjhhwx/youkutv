@@ -1950,6 +1950,94 @@
                     "sub_title": "", 
                     "id": 19
                 }, 
+		 {
+                    "ui_type": {
+                        "unitary": false, 
+                        "ratio": 2, 
+                        "name": "block_grid_classic", 
+                        "columns": 2
+                    }, 
+                    "ver": 1473245912, 
+                    "ad": {
+                        "enable": false
+                    }, 
+                    "hint": {
+                        "right": "", 
+                        "mid": "", 
+                        "left": ""
+                    }, 
+                    "items": [
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "ver": 1473245912, 
+                            "target": {
+                                "schema": "yktv"
+                            }, 
+                            "title": "经典系列1", 
+                            "hint": {
+                                "right": "", 
+                                "mid": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.ykimg.com/0510000057CCDC0F6714C050700B60DE", 
+                                    "md5": "dbf9899c731d0cffc735dc1d4233e35b"
+                                }
+                            }, 
+                            "id": 35, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 1, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "ver": 1473245912, 
+                            "target": {
+                                "schema": "yktv"
+                            }, 
+                            "title": "经典系列2", 
+                            "hint": {
+                                "right": "", 
+                                "mid": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057CCDC736714C0500F0DB5B1", 
+                                    "md5": "10c6ebd0505228e9b1c417d5edcf9375"
+                                }
+                            }, 
+                            "id": 36, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }
+                    ], 
+                    "title": "专题推荐", 
+                    "sub_title": "", 
+                    "id": 34
+                }, 
                 {
                     "ui_type": {
                         "unitary": false, 
