@@ -23,7 +23,363 @@
                         "enable": false
                     }, 
                     "title": "个人中心", 
-                    "items": [ ], 
+                    items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item_history",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473326614,
+ad: {
+enable: false
+},
+title: "上次观看",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "蜂鸟特工",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CE6A116714C0640C0DB0DB",
+md5: "78b0eb7a3013e945f9d4f11e1ba85c5b"
+}
+},
+blocks: [ ],
+id: 8
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1474622352,
+target: {
+url: "tv/v3/user/info",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "usercenter"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CE8F466714C0638B062C80",
+md5: "7c8df897f417ad6b382ac77d34badf32"
+}
+},
+id: 9,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1473245912,
+target: {
+schema: "yktv"
+},
+title: "",
+hint: {
+right: "",
+mid: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CF90AF6714C03C710ACB05",
+md5: "7a50f17de83d95bc61a65e91cdea6fd8"
+}
+},
+id: 10,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473245912,
+target: {
+schema: "yktv"
+},
+title: "刺客聂隐娘",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "奇怪的你",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CE69156714C0643C0E5476",
+md5: "cfbf6ad7b21b13945dcb2be5fce254dc"
+}
+},
+id: 11,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473316610,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: ""
+},
+title: "KING ARTHUR",
+hint: {
+right: "",
+center: "",
+left: "精彩"
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CE68ED6714C063E20BF969",
+md5: "bbc1e7e3a8cd67e675070f03b5a54707"
+}
+},
+id: 13,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473316697,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: ""
+},
+title: "猫咪去哪儿",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CE67AB6714C063A9088E21",
+md5: "4e69ad60a894c3a41c98c6212d843d95"
+}
+},
+id: 14,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473838209,
+target: {
+url: "tv/v3/show/detail?id=a204f79c5bf211e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "功夫熊猫3",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CF91206714C03C4B05529F",
+md5: "49d2196e2fbe45b3ff7f0ae5cf28ab22"
+}
+},
+id: 15,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+mid: "",
+left: ""
+},
+sub_title: "",
+images: {
+background: {
+url: "http://r4.ykimg.com/0510000057CFA0356714C03BC10D72C8",
+md5: "f56452c09802f7af13ea35ed424a61bb"
+}
+},
+id: 7
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.276,
+name: "block_grid_hot",
+columns: 2
+},
+ver: 1474871604,
+ad: {
+enable: false
+},
+title: "精彩专题",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1474614333,
+target: {
+url: "tv/v3/subject/detail?id=1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:poster"
+},
+title: "精彩看点",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD17166714C04FDC0628CE",
+md5: "ee63b0a11cb1e39331d5ce11d38fceec"
+},
+right_top_corner: {
+url: "http://r2.ykimg.com/0510000057CEA19C6714C063660BEB44",
+md5: "e50d520de494538d4633086d46845a81"
+}
+},
+id: 18,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1474622250,
+target: {
+url: "tv/v3/subject/detail?id=2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:play"
+},
+title: "直击老公",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD16936714C04FF70F141F",
+md5: "75d75d2df1003fc348420d1ea761802b"
+},
+right_top_corner: {
+url: "http://r3.ykimg.com/0510000057CEA3E46714C063940C2CD2",
+md5: "3818fdb3e0e48073a7776ef0f14a81e6"
+}
+},
+id: 17,
+ad: {
+enable: false
+}
+}
+],
                     "hint": { }, 
                     "sub_title": "", 
                     "images": {
