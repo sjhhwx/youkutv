@@ -1192,19 +1192,17 @@
             ], 
             "ad": {
                 "enable": false
-            },
-	    images: {
-normalicon: {
-url: "http://r1.ykimg.com/0510000057CFE24A6714C03C8E00457A",
-md5: "18b1a087f284a9113e8f62307e4eb3a4"
-},
-
-focusicon: {
-url: "http://r1.ykimg.com/0510000057CFE24A6714C03C8E00457A",
-md5: "18b1a087f284a9113e8f62307e4eb3a4"
-},
-
-},
+            }, 
+            "images": {
+                "normalicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/search_normal.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }, 
+                "focusedicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/search_focused.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }
+            }, 
             "hint": {
                 "right": "", 
                 "mid": "", 
@@ -2799,6 +2797,16 @@ md5: "18b1a087f284a9113e8f62307e4eb3a4"
                 "mid": "", 
                 "left": ""
             }, 
+            "images": {
+                "normalicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_normal.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }, 
+                "focusedicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_focused.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }
+            }, 
             "ver": 1474875690, 
             "title": "电影", 
             "id": 3
@@ -3636,6 +3644,16 @@ md5: "18b1a087f284a9113e8f62307e4eb3a4"
                 "right": "", 
                 "mid": "", 
                 "left": ""
+            }, 
+            "images": {
+                "normalicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_normal.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }, 
+                "focusedicon": {
+                    "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_focused.png", 
+                    "md5": "18b1a087f284a9113e8f62307e4eb3a4"
+                }
             }, 
             "ver": 1474875690, 
             "title": "电视剧", 
