@@ -32,7 +32,233 @@
                         "enable": false
                     }, 
                     "title": "个人中心", 
-                    "items": [ ], 
+                    "items": [
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item_history", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1474960751, 
+                            "ad": {
+                                "enable": false
+                            }, 
+                            "title": "", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": "上次观看"
+                            }, 
+                            "sub_title": "麻雀 03", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.ykimg.com/0510000057EA0AA06714C006FC09FC14", 
+                                    "md5": "fc68058ba92606a89e0b42181ed4966d"
+                                }, 
+                                "background": {
+                                    "url": "http://r3.ykimg.com/0510000057EA1D506714C007280374DD", 
+                                    "md5": "141b0b0a374ceb8b667e8e8d9a40878e"
+                                }
+                            }, 
+                            "blocks": [ ], 
+                            "id": 8
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 1, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1474956583, 
+                            "target": {
+                                "url": "tv/v3/user/info", 
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": ""
+                                }, 
+                                "entity": "usercenter"
+                            }, 
+                            "title": "", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.ykimg.com/0510000057EA0D256714C007E107D8CE", 
+                                    "md5": "12a49d1721f95cb02712d0297445c2f4"
+                                }
+                            }, 
+                            "id": 9, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 2, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1474955123, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=de885f1a607f11e6b16e", 
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": ""
+                                }, 
+                                "entity": "detail:show"
+                            }, 
+                            "title": "别那么骄傲 第一季", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r1.ykimg.com/0510000057EA074E6714C0073A01F339", 
+                                    "md5": "901c742d36e24b5e03f7713165df054a"
+                                }
+                            }, 
+                            "id": 11, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 3, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1474955198, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=525036601e3911e6b32f", 
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": ""
+                                }, 
+                                "entity": "detail:show"
+                            }, 
+                            "title": "任意依恋", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057EA07AA6714C006C90EA5FA", 
+                                    "md5": "1bc10d4ec7c7dd96fb6ecf16ade62b2b"
+                                }
+                            }, 
+                            "id": 13, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 4, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1474955381, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=cb945eb0bdaa11e59e2a", 
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": ""
+                                }, 
+                                "entity": "detail:show"
+                            }, 
+                            "title": "梦想合伙人", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.ykimg.com/0510000057EA08606714C00718016E16", 
+                                    "md5": "f896482726bd7506aa0115b0643080cd"
+                                }
+                            }, 
+                            "id": 14, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }, 
+                        {
+                            "ui_type": {
+                                "unitary": true, 
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 5, 
+                                    "w": 1, 
+                                    "h": 2
+                                }
+                            }, 
+                            "ver": 1473838209, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=a204f79c5bf211e3b8b7", 
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": ""
+                                }, 
+                                "entity": "detail:show"
+                            }, 
+                            "title": "功夫熊猫3", 
+                            "hint": {
+                                "right": "", 
+                                "center": "", 
+                                "left": ""
+                            }, 
+                            "sub_title": "", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.ykimg.com/0510000057CF91206714C03C4B05529F", 
+                                    "md5": "49d2196e2fbe45b3ff7f0ae5cf28ab22"
+                                }
+                            }, 
+                            "id": 15, 
+                            "ad": {
+                                "enable": false
+                            }
+                        }
+                    ], 
                     "hint": { }, 
                     "sub_title": "", 
                     "images": {
