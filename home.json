@@ -11,6 +11,15 @@
                 "name": "block_list"
             }, 
             "blocks": [
+		{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_search_box",
+columns: 1
+},
+id: "CD/24"
+},
                 {
                     "ui_type": {
                         "unitary": false, 
