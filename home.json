@@ -1429,11 +1429,11 @@
                 "enable": false
             }, 
             "images": {
-                "normalicon": {
+                "normal_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/search_normal.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }, 
-                "focusedicon": {
+                "focused_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/search_focused.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }
@@ -3033,11 +3033,11 @@
                 "left": ""
             }, 
             "images": {
-                "normalicon": {
+                "normal_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_normal.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }, 
-                "focusedicon": {
+                "focused_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_focused.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }
@@ -3881,11 +3881,11 @@
                 "left": ""
             }, 
             "images": {
-                "normalicon": {
+                "normal_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_normal.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }, 
-                "focusedicon": {
+                "focused_icon": {
                     "url": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/home_focused.png", 
                     "md5": "18b1a087f284a9113e8f62307e4eb3a4"
                 }
