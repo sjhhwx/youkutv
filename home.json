@@ -906,7 +906,7 @@
                     ], 
                     "ui_type": {
                         "unitary": true, 
-                        "name": "block_grid_star_h"
+                        "name": "block_grid_star_error_h"
                     }, 
                     "title": ""
                 }, 
