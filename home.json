@@ -480,7 +480,7 @@
                 }
             }, 
             "blocks": [
-		{
+                {
                     "stat": {
                         "header_position": "1", 
                         "pagenum": 1, 
@@ -590,6 +590,325 @@
                     "filter": "", 
                     "is_template": false, 
                     "id": 3359
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "导演 李慧珠", 
+                                "position": 0
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=16924", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "导演 李慧珠", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/0514000050AB443A979273658E010F09", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/16924"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "唐嫣", 
+                                "position": 1
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=21458", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "唐嫣", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/05140000579EB46E67BC3C0B2F0365F6", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/21458"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "罗晋", 
+                                "position": 2
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=319796", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "罗晋", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/0514000055C052D067BC3C5BA908F00B", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/319796"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "吴建豪", 
+                                "position": 3
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=12649", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "吴建豪", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051400004FDD570A9792737CBF0DC897", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/12649"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "毛晓彤", 
+                                "position": 4
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=389259", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "毛晓彤", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/0514000057830F8067BC3C159D0DCCA5", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/389259"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "李心艾", 
+                                "position": 5
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=835774", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "李心艾", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/0514000052A958D667583938D70437F3", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/835774"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "梁振伦", 
+                                "position": 6
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=871278", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "梁振伦", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/05140000579ABE4567BC3C376705B99D", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/871278"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "陈钰琪", 
+                                "position": 7
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=890159", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "陈钰琪", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/05140000579ABDC267BC3C38EE0E53A6", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/890159"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "谭凯", 
+                                "position": 8
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=21807", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "谭凯", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r1.cp31.ott.cibntv.net/0514000054B6122667379F1D6609CE85", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/21807"
+                        }, 
+                        {
+                            "stat": {
+                                "type": "明星", 
+                                "pagenum": 0, 
+                                "name": "刘雪华", 
+                                "position": 9
+                            }, 
+                            "target": {
+                                "url": "tv/v3/star/detail?id=16292", 
+                                "entity": "detail:star", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "刘雪华", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051400004F2B6F3A9792730CEF0C17E0", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/16292"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "name": "block_grid_star_h"
+                    }, 
+                    "title": ""
                 }, 
                 {
                     "stat": {
