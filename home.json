@@ -584,7 +584,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 1.778, 
-                        "name": "block_grid", 
+                        "name": "block_grid_error", 
                         "columns": 2
                     }, 
                     "filter": "", 
