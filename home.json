@@ -904,6 +904,7 @@
                             "id": "YK/16292"
                         }
                     ], 
+		    width:240,
                     "ui_type": {
                         "unitary": true, 
                         "name": "block_grid_star_error_h"
