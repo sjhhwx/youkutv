@@ -1218,7 +1218,7 @@
                     "ui_type": {
                         "unitary": false, 
                         "ratio": 0.667, 
-                        "name": "block_grid_user", 
+                        "name": "block_grid_user_error", 
                         "columns": 6
                     }, 
                     "filter": "", 
