@@ -334,15 +334,16 @@
         "default_desc": "", 
         "videos_list": [
             {
-                "desc": "123"
-		"title":"456"
+                "desc": "123", 
+                "title": "456"
             }, 
             {
-                "desc": "789"
-		"title":"257"
+                "desc": "789", 
+                "title": "257"
             }, 
             {
-                "desc": ""
+                "desc": "789", 
+                "title": "257"
             }, 
             {
                 "desc": ""
