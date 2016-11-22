@@ -1,0 +1,364 @@
+{
+    "status": 0, 
+    "blocks": [
+        {
+            "ui_type": {
+                "name": "block_list"
+            }, 
+            "blocks": [
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 0, 
+                                "navigation": "播放器专题", 
+                                "name": "《幻城》卫视版预告", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc3NzE3MTIxNg==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《幻城》卫视版预告", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc3NzE3MTIxNg==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/050C0000576A029167BC3C1260020B0C"
+                                }, 
+                                "background": {
+                                    "url": "http://r1.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5171"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 1, 
+                                "navigation": "播放器专题", 
+                                "name": "《政委》29集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc2NzQyMzM4OA==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《政委》29集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc2NzQyMzM4OA==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/050C000057FE011467BC3C722C09C50F"
+                                }, 
+                                "background": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5170"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 2, 
+                                "navigation": "播放器专题", 
+                                "name": "《政委》30集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc2NzQyNDE4NA==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《政委》30集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc2NzQyNDE4NA==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/0510000058193AAB6714C018C005243F"
+                                }, 
+                                "background": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5169"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 3, 
+                                "navigation": "播放器专题", 
+                                "name": "《暗战危城》25集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc4MjgwNTY4NA==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《暗战危城》25集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc4MjgwNTY4NA==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/050C000058086AEE67BC3C5BF10AB36A"
+                                }, 
+                                "background": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5168"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 4, 
+                                "navigation": "播放器专题", 
+                                "name": "《暗战危城》26集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc4MjgwNTkzNg==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《暗战危城》26集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc4MjgwNTkzNg==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/0510000058193B146714C01984029890"
+                                }, 
+                                "background": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5167"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 5, 
+                                "navigation": "播放器专题", 
+                                "name": "《青云志》53集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc3NjUxNDk3Mg==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《青云志》53集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc3NjUxNDk3Mg==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r4.cp31.ott.cibntv.net/0510000058128B3B6714C03F7809AC1E"
+                                }, 
+                                "background": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5166"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "position": 6, 
+                                "navigation": "播放器专题", 
+                                "name": "《青云志》54集预告片", 
+                                "pagenum": 1, 
+                                "type": "Video"
+                            }, 
+                            "target": {
+                                "url": "tv/v3/video/detail?id=XMTc3Nzc2NTE2OA==", 
+                                "schema": "yktv", 
+                                "entity": "subject:play"
+                            }, 
+                            "title": "《青云志》54集预告片", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "videoid": "XMTc3Nzc2NTE2OA==", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051000005817DF866714C034F8093822"
+                                }, 
+                                "background": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9"
+                                }
+                            }, 
+                            "ns": "Video", 
+                            "id": "YK/5165"
+                        }
+                    ], 
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 1.778, 
+                        "name": "block_grid_subject_play"
+                    }
+                }
+            ]
+        }
+    ], 
+    "ui_type": {
+        "name": "single_page"
+    }, 
+    "ver": 1479780835, 
+    "subjectinfo": {
+        "video_title": "《幻城》卫视版预告", 
+        "cover_img": "http://r1.cp31.ott.cibntv.net/05100000578C789A6714C071E102E177", 
+        "videoid": "XMTc3NzE3MTIxNg==", 
+        "default_sub_title": "", 
+        "img_h": "http://r4.cp31.ott.cibntv.net/05100000578C789A6714C071E102E177", 
+        "display_fields": [
+            "2016-11-22", 
+            "电视剧"
+        ], 
+        "default_desc": "", 
+        "videos_list": [
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }, 
+            {
+                "desc": ""
+            }
+        ], 
+        "subjectid": 294, 
+        "subject_title": "【追剧指南】热播大剧抢先看", 
+        "background_img": "http://r2.cp31.ott.cibntv.net/051000005796D8F36714C0073A0892C9", 
+        "layout_type": "play", 
+        "default_title": ""
+    }
+}
