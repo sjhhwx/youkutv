@@ -790,7 +790,7 @@
           "ui_type": {
             "unitary": false,
             "ratio": 1.067,
-            "name": "block_grid_home",
+            "name": "block_grid_special",
             "columns": 4
           },
           "filter": "",
@@ -1160,7 +1160,7 @@
           "ui_type": {
             "unitary": false,
             "ratio": 1.778,
-            "name": "block_grid_user_home",
+            "name": "block_grid_user_special",
             "columns": 4
           },
           "filter": "",
