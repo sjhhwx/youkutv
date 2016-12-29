@@ -606,7 +606,7 @@
         "entity": "channel",
         "schema": "yktv"
       },
-      "title": "精选",
+      "title": "精选111",
       "stat": {
         "header_position": "1",
         "pagenum": 1,
@@ -790,7 +790,7 @@
           "ui_type": {
             "unitary": false,
             "ratio": 1.067,
-            "name": "block_grid",
+            "name": "block_grid_home",
             "columns": 4
           },
           "filter": "",
@@ -1160,7 +1160,7 @@
           "ui_type": {
             "unitary": false,
             "ratio": 1.778,
-            "name": "block_grid_user",
+            "name": "block_grid_user_home",
             "columns": 4
           },
           "filter": "",
