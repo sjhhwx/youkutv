@@ -129,9 +129,10 @@
                             "target": {
                                 "url": "tv/v3/show/detail?id=9cd2277647d311e5b692", 
                                 "entity": "activity", 
-                                "schema": "yktv",
-				"params":{
-				 "android_intent":"yunos_newactivity://detail?webtype=yunos&url=http://fez.alicdn.com/wow/tvact/act/tashatest3"
+                                "schema": "yktv", 
+                                "params": {
+                                    "android_intent": "yunos_newactivity://detail?webtype=yunos&url=http://fez.alicdn.com/wow/tvact/act/tashatest3"
+                                }
                             }
                         }, 
                         {
@@ -906,7 +907,7 @@
                             "id": "YK/16292"
                         }
                     ], 
-		    "width":240,
+                    "width": 240, 
                     "ui_type": {
                         "unitary": true, 
                         "name": "block_grid_star_error_h"
