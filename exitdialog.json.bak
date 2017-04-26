@@ -1,0 +1,178 @@
+{
+    "status": 0, 
+    "ui_type": {
+        "name": "single_page"
+    }, 
+    "blocks": [
+        {
+            "ui_type": {
+                "name": "block_list"
+            }, 
+            "blocks": [
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "pagenum": 0, 
+                                "name": "大秦帝国之崛起", 
+                                "spma": "a2h1w", 
+                                "position": 0, 
+                                "type": "详情页相关", 
+                                "spmb": 8271242
+                            }, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=6b5d941629a011e4b8b7", 
+                                "entity": "detail:show", 
+                                "schema": "yktv"
+                            }, 
+                            "sub_title": "大秦帝国之崛起", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051B0000589D5F9DADBDD3033E038DEA", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }, 
+                                "top_middle": {
+                                    "url": "http://r1.ykimg.com/0510000058DB6BD2A4352584A202E3E8", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/6b5d941629a011e4b8b7"
+                        }, 
+                        {
+                            "stat": {
+                                "pagenum": 0, 
+                                "name": "不可能完成的任务", 
+                                "spma": "a2h1w", 
+                                "position": 1, 
+                                "type": "详情页相关", 
+                                "spmb": 8271242
+                            }, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=5a805a82e5cb11e59e2a", 
+                                "entity": "detail:show", 
+                                "schema": "yktv"
+                            }, 
+                            "sub_title": "不可能完成的任务", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/051B000058CB9ED7ADBDD3DF15032F28", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }, 
+                                "top_middle": {
+                                    "url": "http://r1.ykimg.com/0510000058DB6BBFA4352584AB083017", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 1, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/5a805a82e5cb11e59e2a"
+                        }, 
+                        {
+                            "stat": {
+                                "pagenum": 0, 
+                                "name": "青云志 TV版", 
+                                "spma": "a2h1w", 
+                                "position": 2, 
+                                "type": "详情页相关", 
+                                "spmb": 8271242
+                            }, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=e46186b0f71711e5a080", 
+                                "entity": "detail:show", 
+                                "schema": "yktv"
+                            }, 
+                            "sub_title": "青云志 TV版", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r1.cp31.ott.cibntv.net/051B000058999D3E67BC3C758F0B2C7D", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }, 
+                                "top_middle": {
+                                    "url": "http://r1.ykimg.com/0510000058DB6BC8A43525849E06316D", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 2, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/e46186b0f71711e5a080"
+                        }
+                    ], 
+                    "ui_type": {
+                        "ratio": 0.667, 
+                        "name": "block_grid_dialog_show", 
+                        "columns": 3
+                    }
+                }, 
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "pagenum": 0, 
+                                "name": "大秦帝国之崛起", 
+                                "spma": "a2h1w", 
+                                "position": 0, 
+                                "type": "详情页相关", 
+                                "spmb": 8271242
+                            }, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=6b5d941629a011e4b8b7", 
+                                "entity": "detail:show", 
+                                "schema": "yktv"
+                            }, 
+                            "title": "找不到想看的,试试这些吧~", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051B0000589D5F9DADBDD3033E038DEA", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/6b5d941629a011e4b8b7"
+                        }
+                    ], 
+                    "ui_type": {
+                        "ratio": 0.667, 
+                        "name": "block_grid_dialog_text", 
+                        "columns": 1
+                    }
+                }
+            ]
+        }
+    ], 
+    "ver": 1473406894
+}

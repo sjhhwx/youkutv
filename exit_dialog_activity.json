@@ -1,0 +1,58 @@
+{
+    "status": 0, 
+    "ui_type": {
+        "name": "single_page"
+    }, 
+    "blocks": [
+        {
+            "ui_type": {
+                "name": "block_list"
+            }, 
+            "blocks": [
+                {
+                    "items": [
+                        {
+                            "stat": {
+                                "pagenum": 0, 
+                                "name": "大秦帝国之崛起", 
+                                "spma": "a2h1w", 
+                                "position": 0, 
+                                "type": "详情页相关", 
+                                "spmb": 8271242
+                            }, 
+                            "target": {
+                                "url": "tv/v3/show/detail?id=6b5d941629a011e4b8b7", 
+                                "entity": "detail:show", 
+                                "schema": "yktv"
+                            }, 
+                            "sub_title": "大秦帝国之崛起_活动测试", 
+                            "images": {
+                                "poster": {
+                                    "url": "http://r2.cp31.ott.cibntv.net/051B0000589D5F9DADBDD3033E038DEA", 
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            }, 
+                            "ns": "video", 
+                            "ui_type": {
+                                "name": "display_item", 
+                                "pos": {
+                                    "y": 0, 
+                                    "x": 0, 
+                                    "w": 1, 
+                                    "h": 1
+                                }
+                            }, 
+                            "id": "YK/6b5d941629a011e4b8b7"
+                        }
+                    ], 
+                    "ui_type": {
+                        "ratio": 1.777, 
+                        "name": "block_grid_dialog_activity", 
+                        "columns": 1
+                    }
+                }
+            ]
+        }
+    ], 
+    "ver": 1473406894
+}
