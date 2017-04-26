@@ -1413,6 +1413,40 @@
                     "is_template": false, 
                     "id": 3143
                 }, 
+		{
+                    "ui_type": {
+                        "unitary": true, 
+                        "ratio": 0.67, 
+                        "name": "block_grid_src", 
+                        "columns": 6
+                    }, 
+                    "ver": 1478765126, 
+                    "ad": {
+                        "enable": false
+                    }, 
+                    "hint": {
+                        "right": "", 
+                        "center": "", 
+                        "left": ""
+                    }, 
+                    "src": "https://raw.githubusercontent.com/sjhhwx/youkutv/master/srcjson.json", 
+                    "items": [ ], 
+                    "sub_title": "", 
+                    "stat": {
+                        "header_position": "0", 
+                        "pagenum": 1, 
+                        "name": "大家都在搜", 
+                        "from": "0:首页导航_0:搜索_1:大家都在搜", 
+                        "type": "频道", 
+                        "position": 1, 
+                        "navigation": "首页导航", 
+                        "header_name": "搜索"
+                    }, 
+                    "filter": "", 
+                    "alias": "", 
+                    "is_template": false, 
+                    "id": 120
+                },
                 {
                     "stat": {
                         "header_position": "1", 
