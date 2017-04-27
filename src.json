@@ -1417,7 +1417,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.67, 
-                        "name": "block_grid_src", 
+                        "name": "block_grid_bigdata", 
                         "columns": 6
                     }, 
                     "ver": 1478765126, 
