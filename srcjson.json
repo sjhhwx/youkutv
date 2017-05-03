@@ -240,7 +240,7 @@
     "ui_type": {
         "unitary": false, 
         "ratio": 0.6657, 
-        "name": "block_grid_classic", 
+        "name": "block_grid_bigdata", 
         "columns": 6
     }, 
     "filter": "", 
