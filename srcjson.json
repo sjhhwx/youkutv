@@ -23,7 +23,14 @@
                 "type": "节目详情页", 
                 "position": 0, 
                 "navigation": "首页导航", 
-                "header_name": "精选"
+                "header_name": "精选", 
+                "scm_id": "scm_id", 
+                "rule_id": "rule_id", 
+                "pic_id": "pic_id", 
+                "pic_scm_id": "pic_scm_id", 
+                "content_id": "content_id", 
+                "content_name": "content_name", 
+                "content_type": "content_type"
             }, 
             "ver": 1492745867, 
             "stat_name": "西游伏妖篇", 
