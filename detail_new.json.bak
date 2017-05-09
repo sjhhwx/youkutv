@@ -646,7 +646,6 @@
                                 "right":"1234万次"
                             },
                             "break_title":"胡歌",
-                            "title":"青云志",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -774,8 +773,8 @@
                         }
                     ],
                     "ui_type":{
-                        "name":"block_grid_classic_same",
-                        "unitary":true,
+                        "name":"block_grid_classic_h",
+                       
                         "ratio":0.67,
                         "columns":6
                     },

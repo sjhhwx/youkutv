@@ -668,7 +668,7 @@
                             "hint":{
                                 "right":"1234万次"
                             },
-                            "title":"青云志",
+                            "title":"青云志1",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -691,7 +691,7 @@
                             "hint":{
                                 "right":"1234万次"
                             },
-                            "title":"青云志",
+                            "title":"青云志2",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -714,7 +714,7 @@
                             "hint":{
                                 "right":"1234万次"
                             },
-                            "title":"青云志",
+                            "title":"青云志3",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -737,7 +737,53 @@
                             "hint":{
                                 "right":"1234万次"
                             },
-                            "title":"青云志",
+                            "title":"青云志4",
+                            "hint_type":2,
+                            "images":{
+                                "poster":{
+                                    "url":"http://r2.cp31.ott.cibntv.net/051B0000589996E867BC3C086D0709B9",
+                                    "md5":"a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            },
+                            "ns":"show",
+                            "id":"YK/e46186b0f71711e5a080"
+                        },
+			{
+                            "ui_type":{
+                                "name":"display_item"
+                            },
+                            "target":{
+                                "url":"tv/v3/show/detail?id=e46186b0f71711e5a080",
+                                "entity":"detail:show",
+                                "schema":"yktv"
+                            },
+                            "hint":{
+                                "right":"1234万次"
+                            },
+                            "title":"青云志5",
+                            "hint_type":2,
+                            "images":{
+                                "poster":{
+                                    "url":"http://r2.cp31.ott.cibntv.net/051B0000589996E867BC3C086D0709B9",
+                                    "md5":"a75d696bcc8070c2bb7ce1325a158065"
+                                }
+                            },
+                            "ns":"show",
+                            "id":"YK/e46186b0f71711e5a080"
+                        },
+			{
+                            "ui_type":{
+                                "name":"display_item"
+                            },
+                            "target":{
+                                "url":"tv/v3/show/detail?id=e46186b0f71711e5a080",
+                                "entity":"detail:show",
+                                "schema":"yktv"
+                            },
+                            "hint":{
+                                "right":"1234万次"
+                            },
+                            "title":"青云志6",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -760,7 +806,7 @@
                             "hint":{
                                 "right":"1234万次"
                             },
-                            "title":"青云志",
+                            "title":"青云志7",
                             "hint_type":2,
                             "images":{
                                 "poster":{
@@ -773,10 +819,8 @@
                         }
                     ],
                     "ui_type":{
-                        "name":"block_grid_classic_same",
-                        "unitary":true,
-                        "ratio":0.67,
-                        "columns":6
+                        "name":"block_grid_classic_h",
+                       
                     },
                     "title":"近期值得看的热剧"
                 }
