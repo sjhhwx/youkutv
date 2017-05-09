@@ -819,7 +819,7 @@
                         }
                     ],
                     "ui_type":{
-                        "name":"block_grid_classic_h",
+                        "name":"block_grid_classic_h"
                        
                     },
                     "title":"近期值得看的热剧"

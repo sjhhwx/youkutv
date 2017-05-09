@@ -748,7 +748,7 @@
                             "ns":"show",
                             "id":"YK/e46186b0f71711e5a080"
                         },
-			{
+                        {
                             "ui_type":{
                                 "name":"display_item"
                             },
@@ -771,7 +771,7 @@
                             "ns":"show",
                             "id":"YK/e46186b0f71711e5a080"
                         },
-			{
+                        {
                             "ui_type":{
                                 "name":"display_item"
                             },
@@ -820,7 +820,6 @@
                     ],
                     "ui_type":{
                         "name":"block_grid_classic_h"
-                       
                     },
                     "title":"近期值得看的热剧"
                 }
