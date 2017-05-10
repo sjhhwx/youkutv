@@ -73,6 +73,11 @@
                         "name": "block_grid_bigdata", 
                         "columns": 6
                     }, 
+                    "target": {
+                        "url": "tv/v3/scg/recommend?scgs=6001&grid_id=4426", 
+                        "schema": "yktv", 
+                        "entity": "bigdata"
+                    }, 
                     "ver": 1478765126, 
                     "ad": {
                         "enable": false
@@ -1413,7 +1418,7 @@
                     "is_template": false, 
                     "id": 3143
                 }, 
-		{
+                {
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.67, 
@@ -1446,7 +1451,7 @@
                     "alias": "", 
                     "is_template": false, 
                     "id": 120
-                },
+                }, 
                 {
                     "stat": {
                         "header_position": "1", 

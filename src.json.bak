@@ -73,6 +73,11 @@
                         "name": "block_grid_bigdata", 
                         "columns": 6
                     }, 
+		    target: {
+"url": "tv/v3/scg/recommend?scgs=6001&grid_id=4426",
+"schema": "yktv",
+"entity": "bigdata"
+},
                     "ver": 1478765126, 
                     "ad": {
                         "enable": false
@@ -1417,7 +1422,7 @@
                     "ui_type": {
                         "unitary": true, 
                         "ratio": 0.67, 
-                        "name": "block_grid_src", 
+                        "name": "block_grid_bigdata", 
                         "columns": 6
                     }, 
                     "ver": 1478765126, 
