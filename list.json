@@ -1,0 +1,301 @@
+{
+        "results": {
+            "signature": "adshfidsagiashdsdkf",
+            "modules": [
+                {
+                    "components": [
+                        {
+                            "componentId": 1986,
+                            "title": "兴趣标签-tags",
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": "123124",
+                                        "title": "二次元",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "extra": ""
+                                    },
+                                    "2": {
+                                        "id": "123124",
+                                        "title": "中二",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "extra": ""
+                                    },
+                                    "3": {
+                                        "id": "123124",
+                                        "title": "校园",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "extra": ""
+                                    },
+                                    "4": {
+                                        "id": "123124",
+                                        "title": "治愈",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "source": "NORMAL",
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_INTEREST_TAGS"
+                            }
+                        }
+                    ],
+                    "moduleId": 1475,
+                    "title": "",
+                    "type": "NORMAL"
+                },
+                {
+                    "components": [
+                        {
+                            "recommend": "true",
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "action": {},
+                                        "id": 124124124,
+                                        "title": "丧尸李志3",
+                                        "img": "http://r3.ykimg.com/050C00005809D1F067BC3C49AE095A8D",
+                                        "length": "724",
+                                        "playCount": "73625",
+                                        "commentCount": "0",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/1706141115a3a2e1a392659159c92a0f92cdfdffe5x200x200x26.png;,3,jpegx;3,50x",
+                                            "id": "1176172883",
+                                            "name": "忘年交★儱"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_FEED"
+                            }
+                        },
+                        {
+                            "recommond": "true",
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": 124124124,
+                                        "title": "丧尸李志3",
+                                        "img": "http://r3.ykimg.com/050C00005809D1F067BC3C49AE095A8D",
+                                        "length": "724",
+                                        "playCount": "73625",
+                                        "commentCount": "0",
+                                        "scm": "a.b.c.d",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/1706141115a3a2e1a392659159c92a0f92cdfdffe5x200x200x26.png;,3,jpegx;3,50x",
+                                            "id": "1176172883",
+                                            "name": "忘年交★儱"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": true,
+                                "url": "htttp://www.taobao.com",
+                                "version": "1.0"
+                            }
+                        },
+                        {
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": 124124124,
+                                        "title": "丧尸李志3",
+                                        "img": "http://r3.ykimg.com/050C00005809D1F067BC3C49AE095A8D",
+                                        "length": "724",
+                                        "playCount": "73625",
+                                        "commentCount": "0",
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/1706141115a3a2e1a392659159c92a0f92cdfdffe5x200x200x26.png;,3,jpegx;3,50x",
+                                            "id": "1176172883",
+                                            "name": "忘年交★儱"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_FEED"
+                            }
+                        },
+                        {
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": 713771822,
+                                        "title": "楚乔版的还珠格格,真的别有一番风味",
+                                        "img": "http://image.zzd.sm.cn/14336750700474903717.jpeg?id=0&from=export",
+                                        "length": "96",
+                                        "playCount": "63507",
+                                        "commentCount": "0",
+                                        "source": "28",
+                                        "ucInfo": {
+                                            "ftime": "1498700728769",
+                                            "id": "6634146844590443517",
+                                            "recoId": "6144565399288241764"
+                                        },
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/170508142797ac614a17e35f28808c29aa8359f8ccx200x200x19.png;,3,jpegx;3,50x",
+                                            "id": "1164399428",
+                                            "name": "流年墨香"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_FEED"
+                            }
+                        },
+                        {
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": 713771822,
+                                        "title": "楚乔版的还珠格格,真的别有一番风味",
+                                        "img": "http://image.zzd.sm.cn/14336750700474903717.jpeg?id=0&from=export",
+                                        "length": "96",
+                                        "playCount": "63507",
+                                        "commentCount": "0",
+                                        "source": "28",
+                                        "ucInfo": {
+                                            "ftime": "1498700728769",
+                                            "id": "6634146844590443517",
+                                            "recoId": "6144565399288241764"
+                                        },
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/170508142797ac614a17e35f28808c29aa8359f8ccx200x200x19.png;,3,jpegx;3,50x",
+                                            "id": "1164399428",
+                                            "name": "流年墨香"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_FEED"
+                            }
+                        },
+                        {
+                            "itemResult": {
+                                "item": {
+                                    "1": {
+                                        "id": 713771822,
+                                        "title": "楚乔版的还珠格格,真的别有一番风味",
+                                        "img": "http://image.zzd.sm.cn/14336750700474903717.jpeg?id=0&from=export",
+                                        "length": "96",
+                                        "playCount": "63507",
+                                        "commentCount": "0",
+                                        "source": "28",
+                                        "ucInfo": {
+                                            "ftime": "1498700728769",
+                                            "id": "6634146844590443517",
+                                            "recoId": "6144565399288241764",
+                                            "url": ""
+                                        },
+                                        "scm": "",
+                                        "trackInfo": "",
+                                        "uploader": {
+                                            "icon": "https://image.uc.cn/o/wemedia/s/upload/2017/170508142797ac614a17e35f28808c29aa8359f8ccx200x200x19.png;,3,jpegx;3,50x",
+                                            "id": "1164399428",
+                                            "name": "流年墨香"
+                                        },
+                                        "feedBack": [
+                                            {
+                                                "id": "1",
+                                                "title": "不感兴趣1"
+                                            },
+                                            {
+                                                "id": "2",
+                                                "title": "太俗"
+                                            }
+                                        ],
+                                        "extra": ""
+                                    }
+                                }
+                            },
+                            "template": {
+                                "dynamic": false,
+                                "tag": "EXPLORE_FEED"
+                            }
+                        }
+                    ],
+                    "moduleId": 1234,
+                    "title": "我是标题",
+                    "type": "NORMAL"
+                }
+            ]
+        }
+}
